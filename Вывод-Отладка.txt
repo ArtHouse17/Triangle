@@ -1,0 +1,93 @@
+﻿"triangle.exe" (Win32). Загружено "F:\visualka\triangle\x64\Release Dynamic\triangle.exe". Символы загружены.
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\ucrtbase.dll". 
+"triangle.exe" (Win32). Загружено "F:\visualka\triangle\x64\Release Dynamic\sfml-graphics-2.dll". Сборка модуля выполнена без символов.
+"triangle.exe" (Win32). Загружено "F:\visualka\triangle\x64\Release Dynamic\sfml-window-2.dll". Сборка модуля выполнена без символов.
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\gdi32.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\win32u.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\gdi32full.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\msvcp_win.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\user32.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\advapi32.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\sechost.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\rpcrt4.dll". 
+"triangle.exe" (Win32). Загружено "F:\visualka\triangle\x64\Release Dynamic\sfml-system-2.dll". Сборка модуля выполнена без символов.
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\msvcp140.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\opengl32.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\combase.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\winmm.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140_1.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\glu32.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\imm32.dll". 
+Поток 0x723c завершился с кодом 0 (0x0).
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\uxtheme.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\msctf.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\oleaut32.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\bcryptprimitives.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\clbcatq.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\AppXDeploymentClient.dll". 
+"triangle.exe" (Win32). Выгружено "C:\Windows\System32\AppXDeploymentClient.dll"
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_5292bbfbf575e2d2\nvoglv64.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\shell32.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\setupapi.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\cfgmgr32.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\bcrypt.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\ole32.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\version.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\wtsapi32.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\cryptbase.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\msasn1.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\cryptnet.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\crypt32.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\drvstore.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\devobj.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\wldp.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\wintrust.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\ntmarta.dll". 
+Поток 0x4474 завершился с кодом 0 (0x0).
+Поток 0x287c завершился с кодом 0 (0x0).
+Поток 0x1380 завершился с кодом 0 (0x0).
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\windows.storage.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\SHCore.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\shlwapi.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\DXCore.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\nvspcap64.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\profapi.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\dwmapi.dll". 
+"triangle.exe" (Win32). Загружено "C:\Program Files (x86)\Mirillis\Action!\action_x64.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\winhttp.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\dxgi.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\wsock32.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\d3d11.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\ws2_32.dll". 
+Поток 0x1fc8 завершился с кодом 61210624 (0x3a60000).
+Поток 0x6e34 завершился с кодом 0 (0x0).
+Поток 0x2fec завершился с кодом 0 (0x0).
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\powrprof.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\umpdc.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\winsta.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\dinput8.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\InputHost.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\propsys.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\WinTypes.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\CoreMessaging.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\CoreUIComponents.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\hid.dll". 
+"triangle.exe" (Win32). Загружено "C:\Windows\System32\TextInputFramework.dll". 
+Поток 0x46c0 завершился с кодом 0 (0x0).
+Поток 0x59a0 завершился с кодом 0 (0x0).
+Поток 0x1cf0 завершился с кодом 0 (0x0).
+Поток 0x7690 завершился с кодом 0 (0x0).
+Поток 0x29e0 завершился с кодом 0 (0x0).
+Поток 0x3cec завершился с кодом 0 (0x0).
+Поток 0x620 завершился с кодом 0 (0x0).
+Поток 0x6124 завершился с кодом 0 (0x0).
+Поток 0x2bf4 завершился с кодом 0 (0x0).
+Поток 0x2880 завершился с кодом 0 (0x0).
+Поток 0x8fc завершился с кодом 0 (0x0).
+Программа "[7704] triangle.exe" завершилась с кодом 0 (0x0).
